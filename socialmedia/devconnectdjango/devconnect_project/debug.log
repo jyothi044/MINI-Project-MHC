@@ -1,0 +1,363 @@
+Watching for file changes with StatReloader
+C:\Users\B.JYOTHI\Desktop\socialmedia\devconnectdjango\devconnect_project\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /media/profile_pics/default.png
+Creating comment for post: 14 by user: devadmin
+User 1 attempting to like post 14
+User 1 successfully liked post 14
+User 1 attempting to like post 12
+User 1 already liked post 12
+Bad Request: /api/posts/12/like/
+User 1 attempting to like post 12
+User 1 already liked post 12
+Bad Request: /api/posts/12/like/
+User 1 attempting to like post 10
+User 1 already liked post 10
+Bad Request: /api/posts/10/like/
+User 1 attempting to like post 8
+User 1 already liked post 8
+Bad Request: /api/posts/8/like/
+User 1 attempting to like post 7
+User 1 successfully liked post 7
+Not Found: /
+Not Found: /api/posts
+Not Found: /api
+User 1 attempting to like post 6
+User 1 already liked post 6
+Bad Request: /api/posts/6/like/
+Watching for file changes with StatReloader
+Received request to create post
+Request data: <QueryDict: {'content': ['hi'], 'image': ['[object Object]']}>
+Request FILES: <MultiValueDict: {}>
+Serializer errors: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+Not Found: /media/profile_pics/default.png
+Not Found: /media/profile_pics/default.png
+Received request to create post
+Request data: <QueryDict: {'content': ['hi'], 'image': ['[object Object]']}>
+Request FILES: <MultiValueDict: {}>
+Serializer errors: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+Received request to create post
+Request data: <QueryDict: {'content': ['helloooo'], 'image': ['[object Object]']}>
+Request FILES: <MultiValueDict: {}>
+Serializer errors: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+Received request to create post
+Request data: <QueryDict: {'content': ['helloooo'], 'image': ['[object Object]']}>
+Request FILES: <MultiValueDict: {}>
+Serializer errors: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+Received request to create post
+Request data: <QueryDict: {'content': ['helloooo'], 'image': ['[object Object]']}>
+Request FILES: <MultiValueDict: {}>
+Serializer errors: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+Unauthorized: /api/posts/
+Watching for file changes with StatReloader
+Unauthorized: /api/users/me/
+Received request to create post
+Request data: <QueryDict: {'content': ['hey'], 'image': ['[object Object]']}>
+Request FILES: <MultiValueDict: {}>
+Serializer errors: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+Received request to create post
+Request data: <QueryDict: {'content': ['hey'], 'image': ['[object Object]']}>
+Request FILES: <MultiValueDict: {}>
+Serializer errors: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+Received request to create post
+Request data: <QueryDict: {'content': ['hi'], 'image': ['[object Object]']}>
+Request FILES: <MultiValueDict: {}>
+Serializer errors: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+Received request to create post
+Request data: <QueryDict: {'content': ['heyy']}>
+Request FILES: <MultiValueDict: {}>
+Creating post for user: devadmin
+Serializer data before save: {'content': 'heyy'}
+Post created successfully: 15
+Not Found: /apihttp://localhost:8000/media/post_images/ac33fda087da31a81d2f4edf21c334a8_zLVLwfI.jpg
+Not Found: /apihttp://localhost:8000/media/post_images/787536.jpg
+Not Found: /apihttp://localhost:8000/media/post_images/Picture1_USGtira.png
+Not Found: /apihttp://localhost:8000/media/post_images/aba63816190ca6d3c2676b7defaae4a9.jpg
+Not Found: /apihttp://localhost:8000/media/post_images/button_7315ag7.png
+Not Found: /apihttp://localhost:8000/media/post_images/encode_fW2LB8o.png
+Not Found: /apihttp://localhost:8000/media/post_images/3e3c9468d5592ee75b799cd2cf1f8515_U1FZERt.jpg
+Not Found: /apihttp://localhost:8000/media/post_images/o5j34tmj_e0nrjvh.png
+Received request to create post
+Request data: <QueryDict: {'content': ['hello'], 'image': ['[object Object]']}>
+Request FILES: <MultiValueDict: {}>
+Serializer errors: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+Received request to create post
+Request data: <QueryDict: {'content': ['hiihyy'], 'image': ['[object Object]']}>
+Request FILES: <MultiValueDict: {}>
+Serializer errors: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+Received request to create post
+Request data: <QueryDict: {'content': ['heyy'], 'image': ['[object Object]']}>
+Request FILES: <MultiValueDict: {}>
+Serializer errors: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+Received request to create post
+Request data: <QueryDict: {'content': ['batman'], 'image': [<TemporaryUploadedFile: batman-commission-2t-3840x2160.jpg (image/jpeg)>]}>
+Request FILES: <MultiValueDict: {'image': [<TemporaryUploadedFile: batman-commission-2t-3840x2160.jpg (image/jpeg)>]}>
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Creating post for user: devadmin
+Serializer data before save: {'content': 'batman', 'image': <TemporaryUploadedFile: batman-commission-2t-3840x2160.jpg (image/jpeg)>}
+Post created successfully: 16
+Received request to create post
+Request data: <QueryDict: {'content': ['heyy'], 'image': ['[object Object]']}>
+Request FILES: <MultiValueDict: {}>
+Serializer errors: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+Received request to create post
+Request data: <QueryDict: {'content': ['hy'], 'image': ['[object Object]']}>
+Request FILES: <MultiValueDict: {}>
+Serializer errors: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+Received request to create post
+Request data: <QueryDict: {'content': ['hoo'], 'image': ['[object Object]']}>
+Request FILES: <MultiValueDict: {}>
+Serializer errors: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+Received request to create post
+Request data: <QueryDict: {'content': ['hoo'], 'image': ['[object Object]']}>
+Request FILES: <MultiValueDict: {}>
+Serializer errors: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+Received request to create post
+Request data: <QueryDict: {'content': ['hiloo'], 'image': ['[object Object]']}>
+Request FILES: <MultiValueDict: {}>
+Serializer errors: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+Received request to create post
+Request data: <QueryDict: {'content': ['hiloo'], 'image': ['[object Object]']}>
+Request FILES: <MultiValueDict: {}>
+Serializer errors: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+C:\Users\B.JYOTHI\Desktop\socialmedia\devconnectdjango\devconnect_project\posts\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\B.JYOTHI\Desktop\socialmedia\devconnectdjango\devconnect_project\posts\views.py changed, reloading.
+Watching for file changes with StatReloader
+User 1 is creating a post
+Validation failed: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+Watching for file changes with StatReloader
+Unauthorized: /api/users/me/
+User 1 is creating a post
+Validation failed: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+User 1 is creating a post
+Importing BlpImagePlugin
+User 1 is creating a post
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing BlpImagePlugin
+Importing CurImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing GbrImagePlugin
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Importing XVThumbImagePlugin
+Creating post for user devadmin
+Creating post for user devadmin
+User 1 is creating a post
+Creating post for user devadmin
+Post created successfully by user 1
+Post created successfully by user 1
+Post created successfully by user 1
+User 1 is creating a post
+Creating post for user devadmin
+Post created successfully by user 1
+User 1 attempting to like post 20
+User 1 successfully liked post 20
+User 1 attempting to like post 19
+User 1 successfully liked post 19
+User 1 is creating a post
+Creating post for user devadmin
+Post created successfully by user 1
+User 1 is creating a post
+Validation failed: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+User 1 is creating a post
+Validation failed: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+User 1 is creating a post
+Validation failed: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+User 1 is creating a post
+Validation failed: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+User 1 is creating a post
+Validation failed: {'image': [ErrorDetail(string='The submitted data was not a file. Check the encoding type on the form.', code='invalid')]}
+Bad Request: /api/posts/
+User 1 is creating a post
+Creating post for user devadmin
+Post created successfully by user 1
+Watching for file changes with StatReloader
+User 1 attempting to like post 22
+User 1 successfully liked post 22
+User 1 attempting to like post 21
+User 1 successfully liked post 21
+User 1 attempting to like post 20
+User 1 already liked post 20
+Bad Request: /api/posts/20/like/
+Watching for file changes with StatReloader
+Not Found: /media/profile_pics/default.png
+Not Found: /media/profile_pics/default.png
+Not Found: /media/profile_pics/default.png
+Watching for file changes with StatReloader
+Unauthorized: /api/users/me/
+Unauthorized: /api/users/me/
+Unauthorized: /api/users/me/
+Unauthorized: /api/users/me/
+Unauthorized: /api/users/me/
+Not Found: /media/profile_pics/default.png
+Not Found: /media/profile_pics/default.png
+Not Found: /media/profile_pics/default.png
+Not Found: /media/profile_pics/default.png
+Not Found: /media/profile_pics/default.png
+Not Found: /media/profile_pics/default.png
+Not Found: /media/profile_pics/default.png
+User 1 attempting to like post 22
+User 1 already liked post 22
+Bad Request: /api/posts/22/like/
+Not Found: /api/posts/22/comments/
+Not Found: /api/posts/21/comments/
+Not Found: /api/posts/16/comments/
+Not Found: /api/posts/7/comments/
+Not Found: /api/posts/6/comments/
